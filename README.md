@@ -90,4 +90,6 @@ The ultimate objective is to personalize this roadmap according to your own lear
 
 
 ```
-❗NOTE: This roadmap is intended for personal use only and does not accept any contributions. Feel free to clone it and customize it on your local computer to align with your own goals.```
+❗NOTE: This roadmap is intended for personal use only and does not accept any contributions. Feel free to clone it and customize it on your local computer to align with your own goals.
+
+```
