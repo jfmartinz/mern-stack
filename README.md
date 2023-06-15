@@ -47,9 +47,9 @@ Happy coding and may this repository be a valuable asset in your path to success
 ---
 
 ### Back End Database 
-[1. Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE)<br>
-[2. Node.js / Express Course - Build 4 Projects](https://www.youtube.com/watch?v=qwfE7fSVaZM)<br>
-[3. Complete MongoDB Tutorial #1 - What is MongoDB?](https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)<br>
+[1. Node.js and Express.js - Full Course 🎥](https://www.youtube.com/watch?v=Oe421EPjeBE)<br>
+[2. Node.js / Express Course - Build 4 Projects 🎥](https://www.youtube.com/watch?v=qwfE7fSVaZM)<br>
+[3. Complete MongoDB Tutorial #1 - What is MongoDB? 🎥](https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)<br>
 
 
 ---
