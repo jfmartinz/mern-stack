@@ -22,7 +22,6 @@ Welcome to my repository! Here you'll find an exciting roadmap that I'm actively
 
 This repository is organized with great care, featuring resources that offer a rich collection of exercises, challenges, and projects designed to enhance your learning experience. By embarking on this journey, you'll gain hands-on experience while building real-world applications.
 
-Whether you're a beginner seeking to dive into full stack development looking to expand your skill set, this repository will guide you towards becoming a proficient MERN developer. I invite you to explore, learn, and grow with the resources provided here.
 
 Happy coding and may this repository be a valuable asset in your path to success! 🚀
 
