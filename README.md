@@ -1,7 +1,7 @@
 
 <img src="img/mernBanner.png" alt="MERN Stack Logo" style="width: 100%;">
 
-**🌟 Connect with me:** [Twitter](https://twitter.com/jfmartinz) | [LinkedIn](https://www.linkedin.com/in/jfmartinz/)
+
 
  ## Table of Contents 🧾
 ### 1. [Introduction](#introduction) 
@@ -87,6 +87,7 @@ It is important to note that this roadmap is not a one-size-fits-all solution, a
 
 The ultimate objective is to personalize this roadmap according to your own learning needs and preferences. Treat it as a starting point and feel free to customize it, creating your own unique learning path. Enjoy this exciting journey of expanding your skills and knowledge as a developer!
 
+**🌟 Connect with me:** [Twitter](https://twitter.com/jfmartinz) | [LinkedIn](https://www.linkedin.com/in/jfmartinz/)
 
 ```
 ❗NOTE: This roadmap is intended for personal use only and does 
