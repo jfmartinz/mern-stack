@@ -18,7 +18,13 @@
 
 ## Introduction 
 
-This repository serves as a roadmap that I am personally following to become a full-stack developer specializing in the MERN stack 💻 However, my learning journey doesn't end there. I have a strong desire to explore and acquire knowledge in other technologies for continuous growth and learning.
+Welcome to my repository! Here you'll find an exciting roadmap that I'm actively following to become a skilled full stack developer, specializing in MERN (MongoDB, Express.js, React.js, Node.js) technology stack. My goal is to share this roadmap and the valuable online resources I've discovered along the way.
+
+This repository is organized with great care, featuring resources that offer a rich collection of exercises, challenges, and projects designed to enhance your learning experience. By embarking on this journey, you'll gain hands-on experience while building real-world applications.
+
+Whether you're a beginner seeking to dive into full stack development or an experienced developer looking to expand your skill set, this repository will guide you towards becoming a proficient MERN developer. I invite you to explore, learn, and grow with the resources provided here.
+
+Happy coding and may this repository be a valuable asset in your path to success!
 
 ---
 
@@ -37,7 +43,7 @@ This repository serves as a roadmap that I am personally following to become a f
  [9. React Course - Beginner's Tutorial for React JavaScript Library [2022] 🎥](https://www.youtube.com/watch?v=bMknfKXIFA8)<br>
  [10. Redux Tutorial - Learn Redux from Scratch 🎥](https://www.youtube.com/watch?v=poQXNp9ItL4)<br>
  [11. MERN Multi Vendor Ecommerce Series 🎥](https://www.youtube.com/playlist?list=PLyah27R0n8V4Kcao94Qlt-xJ0bHxZfBjk) 
- > Do this guided project LAST, once you get familiar with MERN  <br>
+ > Do this guided project LAST, once you finish the Back End and Database  <br>
 
 ---
 
