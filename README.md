@@ -1,4 +1,3 @@
-# Full Stack Developer Roadmap (MERN Stack) 💻
 
 <img src="img/mernBanner.png" alt="MERN Stack Logo" style="width: 100%;">
 
