@@ -88,7 +88,7 @@ Happy coding and may this repository be a valuable asset in your path to success
 
 In conclusion, I have compiled a collection of valuable resources from the internet, including articles, crash courses from YouTube, and more, to help you embark on a comprehensive learning journey to become a full stack developer. This roadmap covers everything from fundamental concepts to advanced topics, as well as the tools and deployment techniques commonly used by developers.
 
-It is important to note that this roadmap is not a one-size-fits-all solution, and its effectiveness may vary depending on individual learning styles and goals. I encourage you to take your time to explore the provided resources and roadmap, allowing you to gain an understanding of what to expect from each resource. Don't hesitate to modify, add, or remove any resources that you find unsuitable or if you discover better alternatives along the way.
+It is important to note that this roadmap is not a one-size-fits-all solution, and its effectiveness may vary depending on individual learning styles and goals. I encourage you to take your time to explore the provided resources and roadmap, allowing you to gain an understanding of what to expect from each resource. Don't hesitate to modify, add, or remove any resources that you find unsuitable or if you discover better alternatives.
 
 The ultimate objective is to personalize this roadmap according to your own learning needs and preferences. Treat it as a starting point and feel free to customize it, creating your own unique learning path. Enjoy this exciting journey of expanding your skills and knowledge as a developer!
 
