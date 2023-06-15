@@ -77,6 +77,7 @@ Happy coding and may this repository be a valuable asset in your path to success
 - [Getting hired course 📗](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired)
 - [The UI/UX Crash Course for 2023 - Learn UI/UX Design 🎥](https://www.youtube.com/watch?v=QwSN4n2sjR8)
 - [UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma 🎥](https://www.youtube.com/watch?v=c9Wg6Cb_YlU&t=89s)
+- [Web Design for Beginners | FREE COURSE 🎥](https://www.youtube.com/watch?v=B-ytMSuwbf8&list=PLgGbWId6zgaVEv9ivPTDsY1ZbR9hMBpLU)<br>
 - [Writing Better CSS in a Codebase 📗](https://chiamakaikeanyi.dev/writing-better-css-in-a-codebase/)
 - [Key Characteristics of Good UI Design – According to 8 Experts 📗](https://www.uxpin.com/studio/blog/good-ui-design-characteristics/)
 - [UX principles 📗](https://lawsofux.com/)
