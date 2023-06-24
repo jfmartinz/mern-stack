@@ -117,7 +117,8 @@ I don't have yet any idea for a capstone project, so feel free to make your own 
 - [Linux Operating System - Crash Course for Beginners](https://www.youtube.com/watch?v=ROjZy1WbCIA)<br>
 - [NPM Full Course For Beginners - Learn NPM fundamentals and basics](https://www.youtube.com/watch?v=cjoTTSbOuG0)<br>
 - [Jest Crash Course - Learn How to Test your JavaScript Application](https://www.youtube.com/watch?v=ajiAl5UNzBU)<br>
-- [How To Setup Prettier](https://www.youtube.com/watch?v=DqfQ4DPnRqI)
+- [How To Setup Prettier](https://www.youtube.com/watch?v=DqfQ4DPnRqI)<br>
+- [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
 ---
 
 ## **What's Next?**
