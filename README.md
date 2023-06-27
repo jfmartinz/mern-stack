@@ -53,7 +53,8 @@ This roadmap is based on what I've learned on Twitter to help you learn coding q
  Weather Application
 
  [1. React Course - Beginner's Tutorial for React JavaScript Library [2022] ](https://www.youtube.com/watch?v=bMknfKXIFA8)<br>
- [2. Redux Tutorial - Learn Redux from Scratch ](https://www.youtube.com/watch?v=poQXNp9ItL4)<br>
+ [2. Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=173s)<br>
+ [3. Redux Tutorial - Learn Redux from Scratch ](https://www.youtube.com/watch?v=poQXNp9ItL4)<br>
 
 
  
