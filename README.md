@@ -78,6 +78,7 @@ This roadmap is based on what I've learned on Twitter to help you learn coding q
 [1. Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1) ](https://www.youtube.com/watch?v=hrTQipWp6co&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6&index=5)<br>
 [2. Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 2) ](https://www.youtube.com/watch?v=1ibmWyt8hfw&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6&index=6)<br>
 [3. Git Branching and Merging - Detailed Tutorial ](https://www.youtube.com/watch?v=Q1kHG842HoI&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6&index=7)<br>
+[4. GitHub Skills](https://skills.github.com/#first-day-on-github)
 
 ## **CI & CD**
 [1. GitHub Actions Tutorial | From Zero to Hero in 90 minutes (Environments, Secrets, Runners, etc)
