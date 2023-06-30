@@ -46,7 +46,8 @@ This roadmap is based on what I've learned on Twitter to help you learn coding q
  Recipe website
 
  [1. JavaScript Algorithms and Data Structures ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)<br>
- [2. HTML CSS Javascript E-commerce Website Tutorial for Beginners ](https://www.youtube.com/watch?v=b3Gqq_k-g24)<br>
+ [2. Javascript30](https://javascript30.com/)<br>
+ [3. HTML CSS Javascript E-commerce Website Tutorial for Beginners ](https://www.youtube.com/watch?v=b3Gqq_k-g24)<br>
 **Personal Project:** <br>
  To-do-list app<br>
  Weather Application
