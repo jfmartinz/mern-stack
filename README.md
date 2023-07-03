@@ -107,10 +107,9 @@ I don't have yet any idea for a capstone project, so feel free to make your own 
 ## **Other Resources**
 - [Project Euler ](https://www.freecodecamp.org/learn/project-euler/)
 - [Useful List of Questions ](https://bigfrontend.dev/list)
-- [Getting hired course ](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired)
-- [Web Design for Beginners | FREE COURSE ](https://www.youtube.com/watch?v=B-ytMSuwbf8&list=PLgGbWId6zgaVEv9ivPTDsY1ZbR9hMBpLU)<br>
+- [Getting hired course ](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired)<br>
 - [Writing Better CSS in a Codebase ](https://chiamakaikeanyi.dev/writing-better-css-in-a-codebase/)
-- [Key Characteristics of Good UI Design – According to 8 Experts ](https://www.uxpin.com/studio/blog/good-ui-design-characteristics/)
+
 - [UX principles ](https://lawsofux.com/)<br>
 - [Why & When to Use Semantic HTML Elements over Divs](https://www.youtube.com/watch?v=bOUhq46fd5g&t=11s)<br>
 - [SEO for Developers | 2020 SEO Tutorial ](https://www.youtube.com/watch?v=JSm4aQl4w_U)<br>
