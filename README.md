@@ -118,6 +118,7 @@ I don't have yet any idea for a capstone project, so feel free to make your own 
 - [Jest Crash Course - Learn How to Test your JavaScript Application](https://www.youtube.com/watch?v=ajiAl5UNzBU)<br>
 - [How To Setup Prettier](https://www.youtube.com/watch?v=DqfQ4DPnRqI)<br>
 - [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
+- [Swavent Full-Stack Web Apps](https://swavent.com/en/services/full-stack-web-apps)
 ---
 
 ## **What's Next?**
